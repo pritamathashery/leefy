@@ -1,0 +1,13 @@
+<resources>
+    <!-- Green colors -->
+    <color name="leafy_green">#85a2a0</color>
+    <color name="leafy_light">#cddce0</color>
+
+    <!-- Blue colors -->
+    <color name="leafy_blue">#d5e7e8</color>
+    <color name="leafy_slate">#8fa6ac</color>
+
+    <!-- Optional neutral colors -->
+    <color name="leafy_bg">#f5f7f8</color>
+    <color name="leafy_text">#2d2d2d</color>
+</resources>
